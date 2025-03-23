@@ -1,5 +1,8 @@
 package net.penguinplay.celestialabyss;
 
+import net.penguinplay.celestialabyss.block.ModBlocks;
+import net.penguinplay.celestialabyss.item.ModCreativeModeTabs;
+import net.penguinplay.celestialabyss.item.ModItems;
 import org.slf4j.Logger;
 
 import com.mojang.logging.LogUtils;
@@ -39,6 +42,11 @@ public class CelestialAbyss
         // Do not add this line if there are no @SubscribeEvent-annotated functions in this class, like onServerStarting() below.
         NeoForge.EVENT_BUS.register(this);
 
+        ModCreativeModeTabs.register(modEventBus);
+
+        ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
+
         // Register the item to a creative tab
         modEventBus.addListener(this::addCreative);
 
@@ -75,3 +83,5 @@ public class CelestialAbyss
         }
     }
 }
+
+

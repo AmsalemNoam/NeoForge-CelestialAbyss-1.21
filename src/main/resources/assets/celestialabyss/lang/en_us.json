@@ -1,0 +1,34 @@
+{
+  "item.celestialabyss.lumenite": "Lumenite",
+  "item.celestialabyss.raw_lumenite": "Raw Lumenite",
+  "item.celestialabyss.darkite": "Darkite",
+  "item.celestialabyss.raw_darkite": "Raw Darkite",
+  "item.celestialabyss.lumenite_nugget": "Lumenite Nugget",
+
+  "block.celestialabyss.lumenite_block": "Lumenite Block",
+  "block.celestialabyss.darkite_block": "Darkite Block",
+  "block.celestialabyss.lumenite_ore": "Lumenite Ore",
+  "block.celestialabyss.darkite_ore": "Darkite Ore",
+
+  "item.celestialabyss.lumenite_sword": "Lumenite Sword",
+  "item.celestialabyss.lumenite_pickaxe": "Lumenite Pickaxe",
+  "item.celestialabyss.lumenite_axe": "Lumenite Axe",
+  "item.celestialabyss.lumenite_shovel": "Lumenite Shovel",
+  "item.celestialabyss.lumenite_hoe": "Lumenite Hoe",
+  "item.celestialabyss.darkite_sword": "Darkite Sword",
+  "item.celestialabyss.darkite_pickaxe": "Darkite Pickaxe",
+  "item.celestialabyss.darkite_axe": "Darkite Axe",
+  "item.celestialabyss.darkite_shovel": "Darkite Shovel",
+  "item.celestialabyss.darkite_hoe": "Darkite Hoe",
+
+  "item.celestialabyss.lumenite_helmet": "Lumenite Helmet",
+  "item.celestialabyss.lumenite_chestplate": "Lumenite Chestplate",
+  "item.celestialabyss.lumenite_leggings": "Lumenite Leggings",
+  "item.celestialabyss.lumenite_boots": "Lumenite Boots",
+  "item.celestialabyss.darkite_helmet": "Darkite Helmet",
+  "item.celestialabyss.darkite_chestplate": "Darkite Chestplate",
+  "item.celestialabyss.darkite_leggings": "Darkite Leggings",
+  "item.celestialabyss.darkite_boots": "Darkite Boots",
+
+  "creativetab.celestialabyss.celestialabyss": "Celestial Abyss"
+}
